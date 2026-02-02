@@ -1,4 +1,4 @@
-package br.edu.ifba.inf008.plugins.model;
+package br.edu.ifba.inf008.plugins.models; 
 
 public enum VehicleType {
     ECONOMY,

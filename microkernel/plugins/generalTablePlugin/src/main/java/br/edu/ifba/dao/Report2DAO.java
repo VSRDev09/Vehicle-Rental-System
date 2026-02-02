@@ -1,10 +1,10 @@
 package br.edu.ifba.dao;
 
-import br.edu.ifba.inf008.plugins.model.ReportDTO;
-import br.edu.ifba.inf008.plugins.model.CustomerType;
-import br.edu.ifba.inf008.plugins.model.VehicleType;
-import br.edu.ifba.inf008.plugins.model.RentalStatus;
-import br.edu.ifba.inf008.plugins.model.PaymentStatus;
+import br.edu.ifba.inf008.plugins.models.ReportDTO;
+import br.edu.ifba.inf008.plugins.models.CustomerType;
+import br.edu.ifba.inf008.plugins.models.VehicleType;
+import br.edu.ifba.inf008.plugins.models.RentalStatus;
+import br.edu.ifba.inf008.plugins.models.PaymentStatus;
 
 import java.io.InputStream;
 import java.nio.charset.StandardCharsets;

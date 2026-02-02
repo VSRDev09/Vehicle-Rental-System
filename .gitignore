@@ -1,5 +1,8 @@
 # Maven
 target/
+*.jar
+
+# Java
 *.class
 
 # IDEs

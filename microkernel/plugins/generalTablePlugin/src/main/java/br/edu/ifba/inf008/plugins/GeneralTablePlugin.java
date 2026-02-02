@@ -3,14 +3,14 @@ package br.edu.ifba.inf008.plugins;
 import br.edu.ifba.inf008.interfaces.IPlugin;
 import br.edu.ifba.inf008.interfaces.ICore;
 import br.edu.ifba.inf008.interfaces.IUIController;
-import br.edu.ifba.inf008.plugins.model.ReportDTO;
+import br.edu.ifba.inf008.plugins.models.ReportDTO;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 
-import br.edu.ifba.inf008.plugins.model.CustomerType;
-import br.edu.ifba.inf008.plugins.model.VehicleType;
-import br.edu.ifba.inf008.plugins.model.RentalStatus;
-import br.edu.ifba.inf008.plugins.model.PaymentStatus;
+import br.edu.ifba.inf008.plugins.models.CustomerType;
+import br.edu.ifba.inf008.plugins.models.VehicleType;
+import br.edu.ifba.inf008.plugins.models.RentalStatus;
+import br.edu.ifba.inf008.plugins.models.PaymentStatus;
 import br.edu.ifba.dao.DataBaseConnection;
 import br.edu.ifba.dao.Report2DAO;
 
