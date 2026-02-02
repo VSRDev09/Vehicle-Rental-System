@@ -37,7 +37,7 @@ public class RentalPlugin implements IPlugin {
     public boolean init() {
 
         IUIController uiController = ICore.getInstance().getUIController();
-        MenuItem menuItem = uiController.createMenuItem("Menu 1", "Rental Menu");
+        MenuItem menuItem = uiController.createMenuItem("Rental Page", "Rental Menu");
 
         menuItem.setOnAction(e -> {
             VBox box = new VBox(10);

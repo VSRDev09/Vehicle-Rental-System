@@ -6,7 +6,7 @@ import java.sql.SQLException;
 
 public class DataBaseConnection {
 
-    private static final String URL = "jdbc:mariadb://localhost:3306/car_rental_system";
+    private static final String URL = "jdbc:mariadb://localhost:3307/car_rental_system";
     private static final String USER = "root";
     private static final String PASSWORD = "mariadb09";
 
