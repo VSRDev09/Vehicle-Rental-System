@@ -140,6 +140,7 @@ O **Apache Maven** é utilizado para:
 ### Subir o banco de dados
 ```bash
 docker compose up -d
+A senha do banco: mariadb09
 ````
 
 ### Compilar o projeto
